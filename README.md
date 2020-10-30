@@ -1,4 +1,4 @@
-# AskSkynet
+# hackOP
 **A Flask Web-App that puts online the GPT-2 reduced model released by OpenAI**
 
 ## Adding the Model
